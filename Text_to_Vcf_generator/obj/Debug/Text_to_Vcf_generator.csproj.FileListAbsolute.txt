@@ -1,0 +1,14 @@
+C:\Users\waylo\source\repos\Text_to_Vcf_generator\Text_to_Vcf_generator\bin\Debug\Text_to_Vcf_generator.exe.config
+C:\Users\waylo\source\repos\Text_to_Vcf_generator\Text_to_Vcf_generator\bin\Debug\Text_to_Vcf_generator.exe
+C:\Users\waylo\source\repos\Text_to_Vcf_generator\Text_to_Vcf_generator\bin\Debug\Text_to_Vcf_generator.pdb
+C:\Users\waylo\source\repos\Text_to_Vcf_generator\Text_to_Vcf_generator\obj\Debug\Text_to_Vcf_generator.csproj.AssemblyReference.cache
+C:\Users\waylo\source\repos\Text_to_Vcf_generator\Text_to_Vcf_generator\obj\Debug\Text_to_Vcf_generator.csproj.CoreCompileInputs.cache
+C:\Users\waylo\source\repos\Text_to_Vcf_generator\Text_to_Vcf_generator\obj\Debug\Text_to_Vcf_generator.exe
+C:\Users\waylo\source\repos\Text_to_Vcf_generator\Text_to_Vcf_generator\obj\Debug\Text_to_Vcf_generator.pdb
+C:\Users\waylo\Desktop\.txt_to_.vcf\Text_to_Vcf_generator\bin\Debug\Text_to_Vcf_generator.exe.config
+C:\Users\waylo\Desktop\.txt_to_.vcf\Text_to_Vcf_generator\bin\Debug\Text_to_Vcf_generator.exe
+C:\Users\waylo\Desktop\.txt_to_.vcf\Text_to_Vcf_generator\bin\Debug\Text_to_Vcf_generator.pdb
+C:\Users\waylo\Desktop\.txt_to_.vcf\Text_to_Vcf_generator\obj\Debug\Text_to_Vcf_generator.csproj.AssemblyReference.cache
+C:\Users\waylo\Desktop\.txt_to_.vcf\Text_to_Vcf_generator\obj\Debug\Text_to_Vcf_generator.csproj.CoreCompileInputs.cache
+C:\Users\waylo\Desktop\.txt_to_.vcf\Text_to_Vcf_generator\obj\Debug\Text_to_Vcf_generator.exe
+C:\Users\waylo\Desktop\.txt_to_.vcf\Text_to_Vcf_generator\obj\Debug\Text_to_Vcf_generator.pdb
